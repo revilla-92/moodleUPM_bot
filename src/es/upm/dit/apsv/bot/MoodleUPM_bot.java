@@ -1388,12 +1388,12 @@ public class MoodleUPM_bot extends TelegramLongPollingBot {
 
 	@Override
 	public String getBotUsername() {
-		return "moodleUPM_bot";
+		return "";
 	}
 
 	@Override
 	public String getBotToken() {
-		return "304027510:AAEOT-RyDkuvY7mKQ6ozEz3vBJOASjcr2GI";
+		return "";
 	}
 
 }
